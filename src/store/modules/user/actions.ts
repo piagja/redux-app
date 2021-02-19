@@ -1,1 +1,1 @@
-import { Reducer } from 'redux'
+export const test = ''
