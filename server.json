@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": 0,
+      "name": "Gustavo de Moraes",
+      "email": "piagja@gmail.com",
+      "age": 25
+    },
+    {
+      "id": 1,
+      "name": "Gustavo de Moraes",
+      "email": "piagja@gmail.com",
+      "age": 25
+    },
+    {
+      "id": 2,
+      "name": "Gustavo de Moraes",
+      "email": "piagja@gmail.com",
+      "age": 25
+    }
+  ]
+}
