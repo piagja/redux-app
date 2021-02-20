@@ -14,9 +14,7 @@ const allUsers: Reducer<IState | any> = (state = INITIAL_STATE, action) => {
           ...state,
           users: [
             ...state.users,
-            {
-              user
-            }
+            user
           ]
         }
     }
